@@ -2,6 +2,9 @@
 
 **Empleatronix** es una aplicación interactiva desarrollada con **Streamlit** y **Plotly** que permite visualizar datos de empleados de manera gráfica. La aplicación muestra una lista de empleados con sus respectivos salarios, con opciones personalizadas para ajustar el color de las barras, mostrar los nombres y salarios, y mucho más.
 
+Puedes acceder a la aplicación en el siguiente enlace:  
+🌐 [Empleatronix en Streamlit](https://empleatronixdavex.streamlit.app/)
+
 ## Funcionalidades 🌟
 
 - **Visualización de datos de empleados**: Muestra el nombre de los empleados y sus salarios 💼💰.
