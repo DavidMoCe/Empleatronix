@@ -39,7 +39,7 @@ You can install the required dependencies by running:
 
 ```bash
 pip install -r requirements.txt
-````
+```
 ---
 
 ## Español 🇪🇸
@@ -75,4 +75,4 @@ Puedes instalar las dependencias necesarias ejecutando:
 
 ```bash
 pip install -r requirements.txt
-````
+```
