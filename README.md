@@ -1,8 +1,8 @@
 # **Empleatronix 🚀**
 
 ## 🌍 Choose Your Language / Elige tu idioma:
-- [English](#englishgb)
-- [Español](#españoles)
+- [English](#english-)
+- [Español](#español-)
 
 ---
 
